@@ -1,5 +1,5 @@
 OverallRank,Country,Latitude,Longitude,Score,GDPperCapita,SocialSupport,HealthyLifeExpectancy,Freedom,Generosity,PerceptionsCorruption
-1,Finland,61.92411,25.748151,7.632,1.305,1.592,0.874,0.681,0.202,0.393
-2,Norway,60.472024,8.468946,7.594,1.456,1.582,0.861,0.686,0.286,0.340
+1,Finland,0,0,7.632,1.305,1.592,0.874,0.681,0.202,0.393
+2,Norway,0,100,7.594,1.456,1.582,0.861,0.686,0.286,0.340
 3,Denmark,56.26392,9.501785,7.555,1.351,1.590,0.868,0.683,0.284,0.408
 4,Iceland,64.963051,-19.020835,7.495,1.343,1.644,0.914,0.677,0.353,0.138
